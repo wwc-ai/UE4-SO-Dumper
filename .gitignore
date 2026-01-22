@@ -1,0 +1,21 @@
+# NDK编译产物
+libs/
+obj/
+dump_output/
+
+# IDE配置文件
+.vscode/
+.idea/
+*.iml
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时文件
+*~
+*.swp
+*.swo
