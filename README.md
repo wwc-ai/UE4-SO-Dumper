@@ -339,6 +339,8 @@ export ANDROID_NDK_HOME=/path/to/android-ndk
 
 [![Star History Chart](https://api.star-history.com/svg?repos=wwc-ai/UE4-SO-Dumper&type=Date)](https://star-history.com/#wwc-ai/UE4-SO-Dumper&Date)
 
+> 如果图表显示异常，请点击图表访问 [Star History 页面](https://star-history.com/#wwc-ai/UE4-SO-Dumper&Date) 查看完整历史记录。
+
 ## 💖 致谢
 
 感谢所有为本项目做出贡献的开发者！

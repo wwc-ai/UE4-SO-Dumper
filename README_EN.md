@@ -339,6 +339,8 @@ If this project helps you, please give it a ⭐ Star!
 
 [![Star History Chart](https://api.star-history.com/svg?repos=wwc-ai/UE4-SO-Dumper&type=Date)](https://star-history.com/#wwc-ai/UE4-SO-Dumper&Date)
 
+> If the chart doesn't display properly, please click the chart to visit [Star History page](https://star-history.com/#wwc-ai/UE4-SO-Dumper&Date) for the full history.
+
 ## 💖 Acknowledgments
 
 Thanks to all developers who contributed to this project!
