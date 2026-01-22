@@ -19,6 +19,14 @@ English | [简体中文](README.md)
 
 UE4 SO Dumper is an efficient and reliable Android native tool specifically designed to extract Unreal Engine 4 (UE4) SO library files from running processes. This tool ensures that dumped SO files are **completely identical** to the original files in APK, making them seamlessly analyzable in reverse engineering tools like IDA Pro without worrying about file corruption or incomplete structures.
 
+<div align="center">
+
+![UE4-SO-Dumper Project Introduction](docs/images/promotion-en.png)
+
+*Project Introduction: From Challenge to Solution, to Final Result*
+
+</div>
+
 ### ✨ Key Features
 
 - 🎯 **Precise Dumping** - Ensures 100% identical dumped SO files to originals

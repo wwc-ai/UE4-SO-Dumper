@@ -19,6 +19,14 @@
 
 UE4 SO Dumper 是一个高效、可靠的Android原生工具，专门用于从运行中的进程内存提取Unreal Engine 4 (UE4) 的SO库文件。该工具确保Dump出的SO文件与APK中的原始文件**完全一致**，使其能够在IDA Pro等逆向工程工具中无缝分析，无需担心文件损坏或结构不完整的问题。
 
+<div align="center">
+
+![UE4-SO-Dumper 项目介绍](docs/images/promotion-zh.png)
+
+*项目介绍：从挑战到解决方案，再到最终结果*
+
+</div>
+
 ### ✨ 核心特性
 
 - 🎯 **精确Dump** - 确保Dump的SO文件与原始文件100%一致
