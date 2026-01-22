@@ -337,7 +337,8 @@ export ANDROID_NDK_HOME=/path/to/android-ndk
 
 如果这个项目对你有帮助，请给个 ⭐ Star 支持一下！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wwc-ai/UE4-SO-Dumper&type=Date)](https://star-history.com/#wwc-ai/UE4-SO-Dumper&Date)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wwc-ai/UE4-SO-Dumper&type=date&legend=top-left)](https://www.star-history.com/#wwc-ai/UE4-SO-Dumper&type=date&legend=top-left)
 
 > 如果图表显示异常，请点击图表访问 [Star History 页面](https://star-history.com/#wwc-ai/UE4-SO-Dumper&Date) 查看完整历史记录。
 

@@ -337,7 +337,7 @@ This tool is for security research and learning purposes only. Please comply wit
 
 If this project helps you, please give it a ⭐ Star!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wwc-ai/UE4-SO-Dumper&type=Date)](https://star-history.com/#wwc-ai/UE4-SO-Dumper&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=wwc-ai/UE4-SO-Dumper&type=date&legend=top-left)](https://www.star-history.com/#wwc-ai/UE4-SO-Dumper&type=date&legend=top-left)
 
 > If the chart doesn't display properly, please click the chart to visit [Star History page](https://star-history.com/#wwc-ai/UE4-SO-Dumper&Date) for the full history.
 
